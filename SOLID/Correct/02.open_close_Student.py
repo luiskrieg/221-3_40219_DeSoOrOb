@@ -4,4 +4,4 @@ class Student:
         self.id = id
         self.full_name = full_name
         self.student_id = student_id
-         
+    
